@@ -1,2 +1,8 @@
 Brohi
 Mugheri
+<<<<<<< Updated upstream
+=======
+Pathan
+Balochi
+Sheikh
+>>>>>>> Stashed changes
